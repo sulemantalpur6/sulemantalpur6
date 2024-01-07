@@ -29,9 +29,6 @@
  </a>
 </p>
 
-https://github-readme-stats.vercel.app/api?username={sulemantalpur6}&theme=blue-green
-https://github-readme-stats.vercel.app/api?username={sulemantalpur6}&theme=blue-green
-https://github-readme-stats.vercel.app/api/top-langs/?username={sulemantalpur6}&theme=blue-green
-
 [![Suleman’s Github Stats](https://github-readme-stats.vercel.app/api?username=sulemantalpur6)](https://github.com/sulemantalpur6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulemantalpur6&layout=compact)](https://github.com/sulemantalpur6)
 
