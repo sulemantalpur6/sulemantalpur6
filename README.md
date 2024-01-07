@@ -1,8 +1,6 @@
 # Hi, I am Muhammad Suleman 👨🏻‍💻 
 
 # Connect With Me
-<a href=”https://twitter.com/deepajarout"><img align=”left” src=”https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
-
 
 # Tech Stack
 
@@ -30,3 +28,10 @@
 <img alt="JIRA" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
  </a>
 </p>
+
+https://github-readme-stats.vercel.app/api?username={sulemantalpur6}&theme=blue-green
+https://github-readme-stats.vercel.app/api?username={sulemantalpur6}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username={sulemantalpur6}&theme=blue-green
+
+[![Suleman’s Github Stats](https://github-readme-stats.vercel.app/api?username=sulemantalpur6)](https://github.com/sulemantalpur6)
+
