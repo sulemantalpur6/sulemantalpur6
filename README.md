@@ -1,4 +1,4 @@
-# 𝙈𝙪𝙝𝙖𝙢𝙢𝙖𝙙 𝙎𝙪𝙡𝙚𝙢𝙖𝙣 👨🏻‍💻 
+# Hi, I am Muhammad Suleman 👨🏻‍💻 
 
 # Tech Stack
 
@@ -16,6 +16,7 @@
 <img alt='MySQL' src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>   
 <img alt='PostgreSQL' src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt='OracleSQL' src="https://img.shields.io/badge/OracleSQL-OracleSQL?style=for-the-badge&logo=oracle&color=F80000"/>
+<img alt='MongoDB' src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt='Heroku' src="https://img.shields.io/badge/Heroku-Heroku?style=for-the-badge&logo=heroku&color=430098"/>
  </a>
 </p>
