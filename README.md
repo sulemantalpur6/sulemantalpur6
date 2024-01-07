@@ -12,16 +12,10 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt='React' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt='Angular' src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img alt="Git" src=""/>
-<img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>   
+<img alt='MySQL' src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>   
+<img alt='PostgreSQL' src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt='OracleSQL' src="https://img.shields.io/badge/OracleSQL-OracleSQL?style=for-the-badge&logo=oracle&color=F80000"/>
 <img alt='Heroku' src="https://img.shields.io/badge/Heroku-Heroku?style=for-the-badge&logo=heroku&color=430098"/>
-<img alt='Next.JS' src="https://img.shields.io/badge/NextJS-NextJS?style=for-the-badge&logo=next.js&color=000000"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-Redux?style=for-the-badge&logo=redux&logoColor=fff&color=764ABC"/>
-<img alt="ESLint" src="https://img.shields.io/badge/ESLint-ESLint?style=for-the-badge&logo=eslint&logoColor=fff&color=4B32C3"/>   
-<img alt="Material UI" src="https://img.shields.io/badge/material%2dui-0081CB?style=for-the-badge&logo=material%2Dui&logoColor=fff&color=0081CB"/>  
  </a>
 </p>
