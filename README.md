@@ -30,5 +30,6 @@
 </p>
 
 [![Suleman’s Github Stats](https://github-readme-stats.vercel.app/api?username=sulemantalpur6)](https://github.com/sulemantalpur6)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulemantalpur6&layout=compact)](https://github.com/sulemantalpur6)
 
