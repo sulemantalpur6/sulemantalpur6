@@ -8,6 +8,7 @@
 <a href="https://facebook.com/sulemantalpur6"> <img align="left" src="https://raw.githubusercontent.com/sulemantalpur6/sulemantalpur6/main/5365678_fb_facebook_facebook logo_icon.png" width="35px"/></a>
 
 <br>
+
 # Tech Stack
 
 <p align="left">
