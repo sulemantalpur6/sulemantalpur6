@@ -4,9 +4,10 @@
 </p>
 
 # Connect With Me
+<p>
 <a href="https://twitter.com/sulemantalpur6"> <img align="left" src="https://raw.githubusercontent.com/sulemantalpur6/sulemantalpur6/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt= "Muhammad Suleman| Twitter" width="35px"/></a>
 <a href="https://facebook.com/sulemantalpur6"> <img align="left" src="https://raw.githubusercontent.com/sulemantalpur6/sulemantalpur6/main/5365678_fb_facebook_facebook logo_icon.png" width="35px"/></a>
-
+</p>
 
 # Tech Stack
 
