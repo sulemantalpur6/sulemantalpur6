@@ -1,6 +1,10 @@
 # Hi, I am Muhammad Suleman 👨🏻‍💻 
 <p>
- An extensively skilled and adaptable Full-Stack developer, possessing abundant proficiency in building resilient and scalable solutions throughout the entirety of the software development stack. I am enthusiastic about crafting code that is both clean and efficient, and I am dedicated to keeping up-to-date with the latest industry advancements. Whether your project requires assistance with backend development using SpringBoot or creating frontend interfaces with Angular and React, I am ready to convert your intricate requirements into top-notch software solutions. 🌟
+I am a Software Engineer at Nisum Pakistan. I can best be described as a passionate back-end developer and a tech enthusiast. I graduated from one of the prominent universities of Pakistan, FAST-NU Karachi.
+
+Currently, I am working on back-end technologies at Nisum and pursuing my career as a Back-End Developer. My skill set includes Java 8, Java 11, AEM, Spring Boot, Spring MVC, Microservices, Testing, Kafka, Linux, and Integration.
+
+Helping society has always been a major focus for me. I train ancillary staff at Nisum and create awareness among people in areas where the internet is still not easily accessible. I am continually supporting people in underdeveloped cities and villages, working to reduce unemployment and empower communities.
 </p>
 
 # Connect With Me
